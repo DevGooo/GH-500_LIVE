@@ -22,3 +22,4 @@ Impact of the issue, including how an attacker might exploit the issue
 This information will help us triage your report more quickly.
 
 Policy
+Added nore security policy information here devgooo@gmail.com
